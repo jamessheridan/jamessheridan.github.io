@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on In which I type semi-literate nonsense into a webpage</title>
+    <link>https://jamessheridan.github.io/categories/</link>
+    <description>Recent content in Categories on In which I type semi-literate nonsense into a webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 05 May 2016 11:19:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jamessheridan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bourbon</title>
+      <link>https://jamessheridan.github.io/categories/bourbon/</link>
+      <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
+      
+      <guid>https://jamessheridan.github.io/categories/bourbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brexit</title>
+      <link>https://jamessheridan.github.io/categories/brexit/</link>
+      <pubDate>Sat, 25 Jun 2016 22:41:54 +0000</pubDate>
+      
+      <guid>https://jamessheridan.github.io/categories/brexit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Europe</title>
+      <link>https://jamessheridan.github.io/categories/europe/</link>
+      <pubDate>Sat, 25 Jun 2016 22:41:54 +0000</pubDate>
+      
+      <guid>https://jamessheridan.github.io/categories/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kentucky</title>
+      <link>https://jamessheridan.github.io/categories/kentucky/</link>
+      <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
+      
+      <guid>https://jamessheridan.github.io/categories/kentucky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://jamessheridan.github.io/categories/music/</link>
+      <pubDate>Thu, 24 Mar 2016 17:48:17 +0000</pubDate>
+      
+      <guid>https://jamessheridan.github.io/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://jamessheridan.github.io/categories/politics/</link>
+      <pubDate>Sat, 25 Jun 2016 22:41:54 +0000</pubDate>
+      
+      <guid>https://jamessheridan.github.io/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rants</title>
+      <link>https://jamessheridan.github.io/categories/rants/</link>
+      <pubDate>Sat, 25 Jun 2016 22:41:54 +0000</pubDate>
+      
+      <guid>https://jamessheridan.github.io/categories/rants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travels</title>
+      <link>https://jamessheridan.github.io/categories/travels/</link>
+      <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
+      
+      <guid>https://jamessheridan.github.io/categories/travels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uk</title>
+      <link>https://jamessheridan.github.io/categories/uk/</link>
+      <pubDate>Sat, 25 Jun 2016 22:41:54 +0000</pubDate>
+      
+      <guid>https://jamessheridan.github.io/categories/uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whiskey</title>
+      <link>https://jamessheridan.github.io/categories/whiskey/</link>
+      <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
+      
+      <guid>https://jamessheridan.github.io/categories/whiskey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
