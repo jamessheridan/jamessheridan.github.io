@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Europe on In which I type semi-literate nonsense into a webpage</title>
+    <title>Europe on James Sheridan</title>
     <link>https://vitiate.org/categories/europe/</link>
-    <description>Recent content in Europe on In which I type semi-literate nonsense into a webpage</description>
+    <description>Recent content in Europe on James Sheridan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>en</language>
     <lastBuildDate>Sat, 25 Jun 2016 22:41:54 +0000</lastBuildDate>
     
 	<atom:link href="https://vitiate.org/categories/europe/index.xml" rel="self" type="application/rss+xml" />

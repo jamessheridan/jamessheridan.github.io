@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travels on In which I type semi-literate nonsense into a webpage</title>
+    <title>Travels on James Sheridan</title>
     <link>https://vitiate.org/categories/travels/</link>
-    <description>Recent content in Travels on In which I type semi-literate nonsense into a webpage</description>
+    <description>Recent content in Travels on James Sheridan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>en</language>
     <lastBuildDate>Thu, 05 May 2016 11:19:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vitiate.org/categories/travels/index.xml" rel="self" type="application/rss+xml" />
