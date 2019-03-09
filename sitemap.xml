@@ -86,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://vitiate.org/tags/bourbon/</loc>
-    <lastmod>2016-05-05T11:19:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vitiate.org/categories/bourbon/</loc>
     <lastmod>2016-05-05T11:19:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -100,14 +93,21 @@
   </url>
   
   <url>
-    <loc>https://vitiate.org/tags/brexit/</loc>
-    <lastmod>2016-06-25T22:41:54+00:00</lastmod>
+    <loc>https://vitiate.org/tags/bourbon/</loc>
+    <lastmod>2016-05-05T11:19:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vitiate.org/categories/brexit/</loc>
+    <lastmod>2016-06-25T22:41:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vitiate.org/tags/brexit/</loc>
     <lastmod>2016-06-25T22:41:54+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -121,13 +121,6 @@
   </url>
   
   <url>
-    <loc>https://vitiate.org/tags/europe/</loc>
-    <lastmod>2016-06-25T22:41:54+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vitiate.org/categories/europe/</loc>
     <lastmod>2016-06-25T22:41:54+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -135,8 +128,8 @@
   </url>
   
   <url>
-    <loc>https://vitiate.org/tags/kentucky/</loc>
-    <lastmod>2016-05-05T11:19:00+00:00</lastmod>
+    <loc>https://vitiate.org/tags/europe/</loc>
+    <lastmod>2016-06-25T22:41:54+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -149,8 +142,8 @@
   </url>
   
   <url>
-    <loc>https://vitiate.org/tags/music/</loc>
-    <lastmod>2016-03-24T17:48:17+00:00</lastmod>
+    <loc>https://vitiate.org/tags/kentucky/</loc>
+    <lastmod>2016-05-05T11:19:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -163,14 +156,21 @@
   </url>
   
   <url>
-    <loc>https://vitiate.org/tags/politics/</loc>
-    <lastmod>2016-06-25T22:41:54+00:00</lastmod>
+    <loc>https://vitiate.org/tags/music/</loc>
+    <lastmod>2016-03-24T17:48:17+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vitiate.org/categories/politics/</loc>
+    <lastmod>2016-06-25T22:41:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vitiate.org/tags/politics/</loc>
     <lastmod>2016-06-25T22:41:54+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -184,14 +184,14 @@
   </url>
   
   <url>
-    <loc>https://vitiate.org/tags/rants/</loc>
+    <loc>https://vitiate.org/categories/rants/</loc>
     <lastmod>2016-06-25T22:41:54+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vitiate.org/categories/rants/</loc>
+    <loc>https://vitiate.org/tags/rants/</loc>
     <lastmod>2016-06-25T22:41:54+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -205,13 +205,6 @@
   </url>
   
   <url>
-    <loc>https://vitiate.org/tags/travels/</loc>
-    <lastmod>2016-05-05T11:19:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vitiate.org/categories/travels/</loc>
     <lastmod>2016-05-05T11:19:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -219,8 +212,8 @@
   </url>
   
   <url>
-    <loc>https://vitiate.org/tags/uk/</loc>
-    <lastmod>2016-06-25T22:41:54+00:00</lastmod>
+    <loc>https://vitiate.org/tags/travels/</loc>
+    <lastmod>2016-05-05T11:19:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -233,14 +226,21 @@
   </url>
   
   <url>
-    <loc>https://vitiate.org/tags/whiskey/</loc>
-    <lastmod>2016-05-05T11:19:00+00:00</lastmod>
+    <loc>https://vitiate.org/tags/uk/</loc>
+    <lastmod>2016-06-25T22:41:54+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vitiate.org/categories/whiskey/</loc>
+    <lastmod>2016-05-05T11:19:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vitiate.org/tags/whiskey/</loc>
     <lastmod>2016-05-05T11:19:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
