@@ -6,22 +6,13 @@
     <description>Recent content in Tags on James Sheridan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 May 2016 11:19:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jun 2016 22:41:54 +0000</lastBuildDate>
     
 	<atom:link href="https://vitiate.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bourbon</title>
-      <link>https://vitiate.org/tags/bourbon/</link>
-      <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
-      
-      <guid>https://vitiate.org/tags/bourbon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brexit</title>
+      <title>brexit</title>
       <link>https://vitiate.org/tags/brexit/</link>
       <pubDate>Sat, 25 Jun 2016 22:41:54 +0000</pubDate>
       
@@ -30,7 +21,7 @@
     </item>
     
     <item>
-      <title>Europe</title>
+      <title>europe</title>
       <link>https://vitiate.org/tags/europe/</link>
       <pubDate>Sat, 25 Jun 2016 22:41:54 +0000</pubDate>
       
@@ -39,25 +30,7 @@
     </item>
     
     <item>
-      <title>Kentucky</title>
-      <link>https://vitiate.org/tags/kentucky/</link>
-      <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
-      
-      <guid>https://vitiate.org/tags/kentucky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://vitiate.org/tags/music/</link>
-      <pubDate>Thu, 24 Mar 2016 17:48:17 +0000</pubDate>
-      
-      <guid>https://vitiate.org/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
+      <title>politics</title>
       <link>https://vitiate.org/tags/politics/</link>
       <pubDate>Sat, 25 Jun 2016 22:41:54 +0000</pubDate>
       
@@ -66,7 +39,7 @@
     </item>
     
     <item>
-      <title>Rants</title>
+      <title>rants</title>
       <link>https://vitiate.org/tags/rants/</link>
       <pubDate>Sat, 25 Jun 2016 22:41:54 +0000</pubDate>
       
@@ -75,16 +48,7 @@
     </item>
     
     <item>
-      <title>Travels</title>
-      <link>https://vitiate.org/tags/travels/</link>
-      <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
-      
-      <guid>https://vitiate.org/tags/travels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uk</title>
+      <title>uk</title>
       <link>https://vitiate.org/tags/uk/</link>
       <pubDate>Sat, 25 Jun 2016 22:41:54 +0000</pubDate>
       
@@ -93,11 +57,47 @@
     </item>
     
     <item>
-      <title>Whiskey</title>
+      <title>bourbon</title>
+      <link>https://vitiate.org/tags/bourbon/</link>
+      <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
+      
+      <guid>https://vitiate.org/tags/bourbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kentucky</title>
+      <link>https://vitiate.org/tags/kentucky/</link>
+      <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
+      
+      <guid>https://vitiate.org/tags/kentucky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travels</title>
+      <link>https://vitiate.org/tags/travels/</link>
+      <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
+      
+      <guid>https://vitiate.org/tags/travels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whiskey</title>
       <link>https://vitiate.org/tags/whiskey/</link>
       <pubDate>Thu, 05 May 2016 11:19:00 +0000</pubDate>
       
       <guid>https://vitiate.org/tags/whiskey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://vitiate.org/tags/music/</link>
+      <pubDate>Thu, 24 Mar 2016 17:48:17 +0000</pubDate>
+      
+      <guid>https://vitiate.org/tags/music/</guid>
       <description></description>
     </item>
     
