@@ -1,20 +1,29 @@
 body {
-  font-family: 'Josefin Sans';
+  font-family: 'Cormorant Garamond';
 }
 
-.f3 {
-  font-family: 'Josefin Sans';
-  font-size: 28px;
+.pl0 {
+  font-family: 'Rubik';
 }
+
+h2 {
+  font-family: 'Cormorant Garamond';
+}
+
+h1, h3, h4, h5, h6 {
+  font-family: 'Rubik';
+}
+
+.f1, .f2, .f3 {
+  font-family: 'Rubik';
+}
+
 .f6 {
-  font-family: 'Crimson Text';
+  
   font-size: 18px;
-}
 
-p {
-  font-family: 'Crimson Text';
-  font-size: 22px;
 }
-h3, h4, h5, h6 {
-  font-family: 'Josefin Sans';
+p {
+  font-family: 'Cormorant Garamond';
+  font-size: 24px;
 }
