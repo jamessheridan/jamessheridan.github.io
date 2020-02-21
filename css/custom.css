@@ -3,7 +3,7 @@ body {
 }
 
 .pl0 {
-  font-family: 'Rubik';
+  font-family: 'Raleway';
 }
 
 h2 {
@@ -11,11 +11,11 @@ h2 {
 }
 
 h1, h3, h4, h5, h6 {
-  font-family: 'Rubik';
+  font-family: 'Raleway';
 }
 
 .f1, .f2, .f3 {
-  font-family: 'Rubik';
+  font-family: 'Raleway';
 }
 
 .f6 {
@@ -35,9 +35,9 @@ p {
 
 .pullquote {
 font-size: 1.4em;
-  width:120%;
+  width:110%;
   margin:50px auto;
-  font-family: 'Cormorant Garamond';
+  font-family: 'Raleway';
   font-style:italic;
   color: #555555;
   padding:1.2em 30px 1.2em 75px;
