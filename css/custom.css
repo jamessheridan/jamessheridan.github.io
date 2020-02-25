@@ -33,6 +33,12 @@ p {
   font-variant: small-caps;
 }
 
+.commentlink {
+  font-size: 28px;
+  font-variant: small-caps;
+  text-align: right;
+}
+
 .pullquote {
 font-size: 1.2em;
   width:110%;
